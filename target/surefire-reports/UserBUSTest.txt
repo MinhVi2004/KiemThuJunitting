@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: UserBUSTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.232 s <<< FAILURE! -- in UserBUSTest
+UserBUSTest.testSearchUser_ByRole -- Time elapsed: 0.006 s <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	newUser cannot be resolved
+	newUser cannot be resolved
+	newUser cannot be resolved
+	newUser cannot be resolved
+	newUser cannot be resolved
+
+	at UserBUSTest.testSearchUser_ByRole(UserBUSTest.java:86)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
